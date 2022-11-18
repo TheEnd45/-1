@@ -1,0 +1,31 @@
+{
+    "shafa": "✅",
+    "well": "✅",
+    "sendad": "✅",
+    "bot": "✅",
+    "chinv": "✅",
+    "typeinv": "قناة تيليجرام",
+    "setrad": ".username",
+    "azrari": [
+        ".name",
+        ".id",
+        ".username"
+    ],
+    "type": [
+        "callback_data",
+        "callback_data",
+        "callback_data"
+    ],
+    "azrar": {
+        "Code\/": [],
+        ".name": {
+            "text": "لوضع اسم شخص"
+        },
+        ".id": {
+            "text": "لوضع ايدي الشخص"
+        },
+        ".username": {
+            "text": "لوضع يوزر الشخص"
+        }
+    }
+}
